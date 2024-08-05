@@ -56,3 +56,4 @@ if __name__ == "__main__":
 
         if 'ABC' in prices and 'DEF' in prices:
             print("Ratio %s" % getRatio(prices['ABC'], prices['DEF']))
+            
